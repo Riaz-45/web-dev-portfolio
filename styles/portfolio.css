@@ -42,7 +42,7 @@
     font-size: 18px;
     font-weight: normal;
     color: #757575;
-    background-color: #FFFFFF;
+    /* background-color: #FFFFFF; */
 }
 
 /* header */
@@ -127,13 +127,17 @@ main{
 .about-items{
     display: flex;
     justify-content: space-around;
-    background-color: #FFFFFF;
+    /* background-color: #FFFFFF; */
 }
 
 .about-description{
     font-weight: bold;
     font-size: 20;
     color: #474747;
+    /* background-color: #FFFFFF; */
+}
+
+.about-container{
     background-color: #FFFFFF;
 }
 
